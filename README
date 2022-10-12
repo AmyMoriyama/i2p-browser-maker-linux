@@ -1,0 +1,13 @@
+I2P Browser Maker Bash Script
+Produced by a citizen of the Nation of Flos Regium: https://flosregium.online
+License: TNOFRS License (See License File)
+Privacy Respecting Browser Startpage: https://historya.live/start/
+=========================================
+
+This bash script is designed to make it super simple to generate a password via bash/console.
+
+How to use:
+* Obtain the script package
+* Read and agree to the short license
+* Make the script(s) runable (chmod +x filename)
+* The 1run.sh does the thing
